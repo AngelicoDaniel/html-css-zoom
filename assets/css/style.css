@@ -1,9 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
-    color: white;
-    background-color: black;
+    box-sizing: border-box;    
 }
 
 .flex{
@@ -26,6 +24,10 @@
     flex-direction: column;
 }
 
+body{
+    background-color: black;
+    color: white;
+}
 
 main{
     flex-grow: 1;
@@ -33,6 +35,7 @@ main{
     margin: auto;
     margin-top: 1.4rem;
     margin-bottom: 1rem;
+    
 }
 
 .header{
@@ -98,3 +101,8 @@ footer i{
 .center-icons{
     padding: 0px 10px;
 }
+
+.fa-share-from-square{
+    color: lightgreen;
+}
+
