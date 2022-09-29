@@ -81,7 +81,7 @@ footer{
 }
 
 footer i{
-    font-size: 2rem;
+    font-size: 1.4rem;
     padding:  5px;
 
 }
@@ -91,6 +91,10 @@ footer i{
     text-align: center;
 }
 
+.center{
+    text-align: center;
+}
+
 .center-icons{
-    padding: 0px 20px;
+    padding: 0px 10px;
 }
