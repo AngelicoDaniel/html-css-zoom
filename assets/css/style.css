@@ -44,7 +44,7 @@ main{
 
 footer{
     background-color: #222222;
-    padding: 10px;
+   
 }
 
 .h-icon1{
@@ -106,3 +106,9 @@ footer i{
     color: lightgreen;
 }
 
+.meeting{
+    color: red;
+    background-color: grey;
+    padding: 20px;
+
+}
