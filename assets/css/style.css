@@ -40,7 +40,7 @@ main{
 }
 
 footer{
-    background-color: gray;
+    background-color: #222222;
     padding: 10px;
 }
 
@@ -78,5 +78,14 @@ footer{
     color: white;
     background-color: rgba(100,113,125, 0.5);
     padding: 2px;
+}
+
+.f-sx{
+    align-items: center;
+}
+
+.fa-microphone{
+    font-size: 2rem;
+    padding:  5px;
 }
 
