@@ -10,6 +10,10 @@
     display: flex;
 }
 
+.wrap{
+    flex-wrap: wrap;
+}
+
 .space-between{
     justify-content: space-between;
 }
@@ -22,8 +26,13 @@
     flex-direction: column;
 }
 
+
 main{
     flex-grow: 1;
+    width: 90%;
+    margin: auto;
+    margin-top: 1.4rem;
+    margin-bottom: 1rem;
 }
 
 .header{
@@ -35,6 +44,27 @@ footer{
 }
 
 .h-icon1{
-    
+    background-color: grey;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 2px 5px;
+}
+
+.h-icon2{
+    background-color: grey;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 2px 5px;
+}
+
+.card{
+    position: relative;
+    width: calc(100% / 7);
+}
+
+.pinco{
+    position: absolute;
+    bottom: 0;
+    left: 0;
 }
 
