@@ -60,6 +60,13 @@ footer{
 .card{
     position: relative;
     width: calc(100% / 7);
+    align-items: center;
+}
+
+.card img{
+    width: 100%;
+    margin: 2px;
+   
 }
 
 .pinco{
