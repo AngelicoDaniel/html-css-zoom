@@ -80,12 +80,17 @@ footer{
     padding: 2px;
 }
 
-.f-sx{
-    align-items: center;
-}
-
-.fa-microphone{
+footer i{
     font-size: 2rem;
     padding:  5px;
+
 }
 
+.sx{
+    align-items: center;
+    text-align: center;
+}
+
+.center-icons{
+    padding: 0px 20px;
+}
